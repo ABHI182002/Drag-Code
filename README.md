@@ -1,4 +1,4 @@
-# Drag-Code
+# Drifting-Code
 
 This is the game physics assignment in which I tried to demonstrate the Car Drag Physics. I have also uploaded the scripts which I used in developing the Scene in Unity Engine.
 
